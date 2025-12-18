@@ -10,6 +10,8 @@ class ExamStats:
     mean: float
     median: float
 
+# 1
+
 @dataclass
 class ModelConfig:
     n_students: int = 73
