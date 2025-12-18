@@ -10,7 +10,7 @@ class ExamStats:
     mean: float
     median: float
 
-# 6
+# 7
 
 @dataclass
 class ModelConfig:
